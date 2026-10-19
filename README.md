@@ -152,7 +152,7 @@ community/)
 
 ## AI Code Review Tools
 - [Codemindai](https://codemindai.com/): Review code with the power of AI. Works for GitLab or Github.
-
+- [ThinkReview](https://thinkreview.dev): Browser extension & MCP that runs AI code review on the PR/MR page. Works for GitHub, GitLab, Azure DevOps and Bitbucket, including self-hosted. No CI or webhook setup, zero code retention, free plan available.
 
 ## Code Review Checklists
 - [A curated list of code review checklists](https://github.com/mgreiler/awesome-code-review-checklists) Contains code review checklists from General to Language-based (Java, C# etc.)
@@ -190,4 +190,6 @@ community/)
 
 ## Practice Code Snippets
 - [Vulnerable code snippets from We Hack](https://github.com/yeswehack/vulnerable-code-snippets)
+
+
 
